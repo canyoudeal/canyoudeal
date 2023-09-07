@@ -13,6 +13,15 @@ This whole thing is for:
 - organizing every little thing
 - other stuff... maybe
 
+Currently thinking about:
+- CompTIA A+ certification
+  - and Network+ and Security+ and everything else
+- The C programming language
+  - vim :)
+- Competitive Cybersecurity
+- LaTeX
+- RAM
+
 
 
 
