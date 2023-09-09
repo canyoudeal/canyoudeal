@@ -20,6 +20,19 @@ You can click the Preview link to take a look at your changes.
 - Competitive Cybersecurity
 - Virtual Machines
 
+## Updates:
+
+### Saturday: September 9, '23
+Completed:
+- Bought domain, that't kinda it...
+- Set up a virtual machine for cyber defense club :)
+
+In the works:
+- Finding a way to host my website
+- Thinking of content to actually go on a personal website
+- Studying for CompTIA A+ certification
+- Schoolwork
+
 
 
 
